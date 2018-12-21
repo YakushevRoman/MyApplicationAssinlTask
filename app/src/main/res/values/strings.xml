@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application AssinlTask</string>
+    <string name="first_ast">first ast</string>
+    <string name="task_one">Task One</string>
+    <string name="begin">begin</string>
+    <string name="end">end</string>
+    <string name="second">second_ast</string>
+    <string name="start">Start</string>
+    <string name="begin_two">Begin</string>
+    <string name="get">Get</string>
+    <string name="third">Third</string>
+</resources>
